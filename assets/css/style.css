@@ -1,0 +1,26 @@
+.range1{
+    color: rgb(17, 17, 189);
+   
+
+   
+    width: 200px;
+    -webkit-appearance: none;
+    height: 10px;
+    cursor: ew-resize;
+    background: #322cc9;
+  }
+  
+
+.input2{
+    background-color: rgb(73, 73, 148);
+}
+table{
+border-collapse: collapse;
+ width: 700px;
+height: 300px;
+ color: black;
+ text-align: center;
+}
+table,th,td{
+  border: 1px solid;
+}
